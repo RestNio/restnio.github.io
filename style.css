@@ -5,3 +5,9 @@ body {
     height: auto;
     overflow: auto;
 }
+
+/* Header */
+header {
+	display: block;
+	border: 1px dotted black;
+}
