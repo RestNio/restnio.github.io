@@ -1,6 +1,6 @@
 /* Test Test Test */
 body {
-    background: lightblue;
+    /* background: lightblue; */
     width: auto;
     height: auto;
     overflow: auto;
@@ -10,4 +10,5 @@ body {
 header {
 	display: block;
 	border: 1px dotted black;
+	padding: 20px;
 }
