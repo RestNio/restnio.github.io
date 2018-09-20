@@ -11,10 +11,10 @@ header {
 	display: block;
 	margin: 0;
 	border: 2px solid darkslategray;
-	height: 10vh;
-	border-bottom-left-radius: 5vw;
-	border-bottom-right-radius: 5vw;
-	padding: 20px;
+	height: 13vh;
+	border-bottom-left-radius: 3vw;
+	border-bottom-right-radius: 3vw;
+	padding: 0;
 	text-align: center;
 	background:
 	  /* On "top" */
@@ -22,7 +22,7 @@ header {
 	    45deg,
 	    transparent,
 	    transparent 10px,
-	    #ccc 10px,
+	    blue 10px,
 	    #ccc 20px
 	  ),
 	  /* on "bottom" */
@@ -36,6 +36,11 @@ header {
 header img {
 	display: inline-block;
 	max-width: 20vw;
+}
+
+header span {
+	display: inline-block;
+	vertical-align: middle;
 }
 
 .color_restn {
