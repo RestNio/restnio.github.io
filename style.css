@@ -11,9 +11,9 @@ header {
 	display: block;
 	margin: 0;
 	border: 2px solid darkslategray;
-	height: 13vh;
-	border-bottom-left-radius: 3vw;
-	border-bottom-right-radius: 3vw;
+	height: 100px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
 	padding: 0;
 	text-align: center;
 	background:
@@ -23,7 +23,7 @@ header {
 	    transparent,
 	    transparent 10px,
 	    blue 10px,
-	    #ccc 20px
+	    darkblue 20px
 	  ),
 	  /* on "bottom" */
 	  linear-gradient(
