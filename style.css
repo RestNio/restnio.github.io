@@ -35,7 +35,11 @@ header {
 
 header img {
 	display: inline-block;
-	max-width: 15vh;
+	max-width: 76px;
+}
+
+col-sm align_left {
+	margin-top: 20px;
 }
 
 .align_left {
