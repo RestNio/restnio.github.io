@@ -38,7 +38,7 @@ header img {
 	max-width: 76px;
 }
 
-.col-sm .align_left {
+.col-sm > .align_left {
 	margin-top: 20px;
 	text-shadow: 0 0 2px #000; /* horizontal-offset vertical-offset 'blur' colour */
   	-moz-text-shadow: 0 0 2px #000;
